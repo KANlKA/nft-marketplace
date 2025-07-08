@@ -62,9 +62,3 @@ A modern, full-stack NFT marketplace powered by Next.js, Ethers.js, and the best
 - [Next-Auth](https://next-auth.js.org/) – Authentication framework
 - Web3 wallet-based sessions
 
-
----
-
-## 🙏 Acknowledgements
-
-- Thanks to the creators and maintainers of all open-source packages used in this project!
